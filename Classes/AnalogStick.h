@@ -74,5 +74,7 @@ typedef enum
 	float rx, ry;
 }
 
+- (void)calculateStickPosition:(CGPoint)pt;
+
 
 @end
